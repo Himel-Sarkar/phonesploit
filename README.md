@@ -1,4 +1,4 @@
-# phonesploit v1.2 windows version portable script 
+# Phonesploit v1.2 windows version portable script 
 <p>-</p>
 <h1>HOW TO INSTALL WINDOWS</h1>
 <p>(1) Download Phonesploit from here --&gt;&gt;https://github.com/Himel-Sarkar/phonesploit/archive/refs/heads/main.zip</p>
